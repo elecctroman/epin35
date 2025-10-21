@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b0f16" />
+      <stop offset="100%" stop-color="#1f2937" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="28" />
+  <text x="400" y="140" text-anchor="middle" font-family="Inter, sans-serif" font-size="38" fill="#3b82f6">MaxiStore</text>
+  <text x="400" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" fill="#e5e7eb">Ana Sayfa Yerleşimi</text>
+  <text x="400" y="260" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#9ca3af">Hero, Popüler Kategoriler, Premium Lisanslar</text>
+</svg>
