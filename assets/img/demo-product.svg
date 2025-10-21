@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice">
+  <rect width="800" height="450" fill="#0f172a" rx="28" />
+  <text x="400" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="34" fill="#3b82f6">Ürün Detay</text>
+  <text x="400" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#e5e7eb">Varyant sekmeleri, satıcı puanı</text>
+</svg>
